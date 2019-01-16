@@ -4,7 +4,7 @@
 
 Here you can find the front-end. See the backend i a separate project
 
-## :smile Specs
+## Specs
 
 ## 🧐 What's inside?
 
