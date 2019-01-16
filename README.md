@@ -4,6 +4,8 @@
 
 Here you can find the front-end. See the backend i a separate project
 
+## :smile Specs
+
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
@@ -33,3 +35,5 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 6. **`vue.config.js`**: A text file containing webpack configurations of your project.
 
 7. **`README.md`**: A text file containing useful reference information about your project.
+
+
