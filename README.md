@@ -11,12 +11,14 @@ Here you can find the front-end. See the backend i a separate project
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
     .
-    ├── dist
+    ├── dist // Compiled files goes here
     ├── public
     ├── node_modules
     ├── src
         ├── components
     ├── .gitignore
+    ├── .babelrc
+    ├── .eslintrc
     ├── package.json
     ├── package-lock.json
     ├── vue.config.js
