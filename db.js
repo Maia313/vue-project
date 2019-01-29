@@ -1,5 +1,5 @@
 
-{
+const patterns = {
     tops: [
       {
         id: 1,
