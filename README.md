@@ -39,10 +39,10 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 7. **`README.md`**: A text file containing useful reference information about your project.
 
 ### Todos
-- [] first
-- [] second
-- [] third
-- [] fourth
-- [] fifth
-- [] sixth
+- [ ] first
+- [ ] second
+- [ ] third
+- [ ] fourth
+- [ ] fifth
+- [ ] sixth
 
