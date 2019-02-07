@@ -39,10 +39,10 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 7. **`README.md`**: A text file containing useful reference information about your project.
 
 ### Todos
-- [ ] first
-- [ ] second
-- [ ] third
-- [ ] fourth
-- [ ] fifth
-- [ ] sixth
+- [ ] man ska kunna navigera mellan `HomePage.vue`, `PatternMaker.vue`, `PatternInfo.vue`, `PatternLibrary.vue`
+- [ ] i `PatternMaker.vue` ska man kunna se en 3 rader x 3 kolumner ruta med mönsterbilder
+- [ ] för varje bild ska det finnas framåt/tillbaka knappar så att man ska kunna enkelt byta bild
+- [ ] det ska gå att stänga eller öppna `CollapsibleSection.vue`
+- [ ] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
+- [ ] man ska kunna se de sparade mönstrena genom att navigera till `PatternLibrary.vue`
 
