@@ -46,3 +46,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 - [ ] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
 - [ ] man ska kunna se de sparade mönstrena genom att navigera till `PatternLibrary.vue`
 
+#### Extra
+- [ ] ta bort mönster från biblioteket
+- [ ] sätta filter för att ändra färgen på mönstret
+- [ ] flytta ordningen på de sparade mönstrena
+- [ ] zooma in och ut mönsterbilderna
