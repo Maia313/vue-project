@@ -2,13 +2,13 @@
 
 ## 🚀 Quick start
 
-Here you can find the front-end. See the backend i a separate project
+Here you can find the front-end. See the backend i a separate project.
 
 ## Specs
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+A quick look at the top-level files and directories.
 
     .
     ├── dist // Compiled files goes here
