@@ -2,7 +2,7 @@
 
 ## 🚀 Quick start
 
-Here you can find the front-end. See the backend i a separate project.
+Here you can find the front-end which is already connected with the backend providing the data. You can also see the backend i a separate project.
 
 ## Specs
 
