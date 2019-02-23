@@ -39,11 +39,11 @@ A quick look at the top-level files and directories.
 7. **`README.md`**: A text file containing useful reference information about your project.
 
 ### Todos
-- [ ] man ska kunna navigera mellan `HomePage.vue`, `PatternMaker.vue`, `PatternInfo.vue`, `PatternLibrary.vue`
-- [ ] i `PatternMaker.vue` ska man kunna se en 3 rader x 3 kolumner ruta med mönsterbilder
-- [ ] för varje bild ska det finnas framåt/tillbaka knappar så att man ska kunna enkelt byta bild
-- [ ] det ska gå att stänga eller öppna `CollapsibleSection.vue`
-- [ ] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
+- [X] man ska kunna navigera mellan `HomePage.vue`, `PatternMaker.vue`, `PatternInfo.vue`, `PatternLibrary.vue`
+- [X] i `PatternMaker.vue` ska man kunna se en 3 rader x 3 kolumner ruta med mönsterbilder
+- [X] för varje bild ska det finnas framåt/tillbaka knappar så att man ska kunna enkelt byta bild
+- [X] det ska gå att stänga eller öppna `CollapsibleSection.vue`
+- [X] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
 - [ ] man ska kunna se de sparade mönstrena genom att navigera till `PatternLibrary.vue`
 
 #### Extra
