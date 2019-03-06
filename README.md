@@ -1,12 +1,25 @@
-# vue-project
+### vue-project
 
-## 🚀 Quick start
+#### 🚀 Quick start
 
 Here you can find the front-end which is already connected with the backend providing the data. You can also see the backend i a separate project.
 
-## Specs
+#### Specs
 
-## 🧐 What's inside?
+- [X] man ska kunna navigera mellan `HomePage.vue`, `PatternMaker.vue`, `PatternInfo.vue`, `PatternLibrary.vue`
+- [X] i `PatternMaker.vue` ska man kunna se en 3 rader x 3 kolumner ruta med mönsterbilder
+- [X] för varje bild ska det finnas framåt/tillbaka knappar så att man ska kunna enkelt byta bild
+- [X] det ska gå att stänga eller öppna `CollapsibleSection.vue`
+- [X] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
+- [ ] man ska kunna se de sparade mönstrena genom att navigera till `PatternLibrary.vue`
+
+#### Extra
+- [ ] ta bort mönster från biblioteket
+- [ ] sätta filter för att ändra färgen på mönstret
+- [ ] flytta ordningen på de sparade mönstrena
+- [ ] zooma in och ut mönsterbilderna
+
+#### 🧐 What's inside?
 
 A quick look at the top-level files and directories.
 
@@ -38,16 +51,4 @@ A quick look at the top-level files and directories.
 
 7. **`README.md`**: A text file containing useful reference information about your project.
 
-### Todos
-- [X] man ska kunna navigera mellan `HomePage.vue`, `PatternMaker.vue`, `PatternInfo.vue`, `PatternLibrary.vue`
-- [X] i `PatternMaker.vue` ska man kunna se en 3 rader x 3 kolumner ruta med mönsterbilder
-- [X] för varje bild ska det finnas framåt/tillbaka knappar så att man ska kunna enkelt byta bild
-- [X] det ska gå att stänga eller öppna `CollapsibleSection.vue`
-- [X] i `CollapsibleSection.vue` ska man kunna se en preview av mönsterbilden för 3 rader x 3 kolumner rutan
-- [ ] man ska kunna se de sparade mönstrena genom att navigera till `PatternLibrary.vue`
 
-#### Extra
-- [ ] ta bort mönster från biblioteket
-- [ ] sätta filter för att ändra färgen på mönstret
-- [ ] flytta ordningen på de sparade mönstrena
-- [ ] zooma in och ut mönsterbilderna
